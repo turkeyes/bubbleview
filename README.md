@@ -1,6 +1,6 @@
 # BubbleView: replacing eye-tracking to crowdsource image importance
 
-Demo: http://massvis.mit.edu/bubbleview/
+Demo: http://bubbleview.namwkim.org/
 
 ## Usage Description  
 We briefly describe how to use the bubbleview code based on the demo. 
